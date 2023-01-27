@@ -84,17 +84,7 @@ nav ul li a:hover::after{
     color: #de4878;
 }
 
-
-
-
-
-
-
-
 /* --------------------about-------------------- */
-
-
-
 
 #about{
     padding: 80px 0;
@@ -496,14 +486,6 @@ nav .fa-solid{
     display: block;
 }
 
-
-
-
-
-
-
-
-
      /* About  */
 
 
@@ -515,9 +497,7 @@ nav .fa-solid{
         /* background-size: cover; */
         background-repeat: no-repeat;
         background-size: 50%, 25%, 25%; 
-        
-       
-      
+     
         background-position: center;
     }
 
